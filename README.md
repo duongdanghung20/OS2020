@@ -1,4 +1,5 @@
 # OS2020
 
-Daniel Hagimont
-hagimont@enseeiht.fr
+Duong Dang Hung
+hungdd.bi10-073@st.usth.edu.vn
+
